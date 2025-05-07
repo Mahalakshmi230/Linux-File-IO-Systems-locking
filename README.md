@@ -130,10 +130,10 @@ int main(int argc, char *argv[]) {
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/6e6a2d78-6a73-41e9-ba6b-b812d876bd15)
 
-/home/sec/Pictures/Screenshots/Screenshot from 2025-05-07 16-28-02.png
+![image](https://github.com/user-attachments/assets/95534e28-bb5b-4517-8899-0dcda19cbc36)
 
-/home/sec/Pictures/Screenshots/Screenshot from 2025-05-07 16-33-13.png
 
 # RESULT:
 The programs are executed successfully.
